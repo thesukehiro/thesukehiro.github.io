@@ -1,0 +1,23 @@
+h1{
+    text-align : center;
+    text-decoration: underline;
+}
+#email{
+    text-decoration: none;
+}
+tr{
+    text-align: center;
+}
+li{
+    text-decoration: underline;
+}
+#certifications{
+    height : 100px;
+    width : 500px;
+}
+hr{
+    color : darkcyan;
+}
+body{
+    font-family:arial;
+}
